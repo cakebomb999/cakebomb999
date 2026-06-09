@@ -77,10 +77,10 @@ class Marco:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=cakebomb999&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakebomb999&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=chartreuse-dark&hide_border=true" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cakebomb999&theme=chartreuse-dark&hide_border=true" alt="Streak" />
 
 </div>
 
