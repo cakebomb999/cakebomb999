@@ -84,11 +84,15 @@ class Marco:
 
 </div>
 
-## 🐍 Contribution Snake
+## 🕹️ Contribution Breakout
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cakebomb999/cakebomb999/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cakebomb999/cakebomb999/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout animation of my contribution graph" src="https://raw.githubusercontent.com/cakebomb999/cakebomb999/github-breakout/images/breakout-dark.svg" />
+</picture>
 
 </div>
 
